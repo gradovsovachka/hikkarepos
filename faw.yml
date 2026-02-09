@@ -1,5 +1,6 @@
 heroku_security:
-  name: Lapoku  invalid_name: "<tg-emoji emoji-id=5210952531676504517>🚫</tg-emoji> <b>Invawid secuwity gwoup nyame >w<</b>"
+  name: "LapokuSecuwity"
+  invalid_name: "<tg-emoji emoji-id=5210952531676504517>🚫</tg-emoji> <b>Invawid secuwity gwoup nyame >w<</b>"
   no_command: "🚫 <b>Command</b> <code>{}</code> <b>nyot found! UwU</b>"
   permissions: "🔐 <b>Hewe you can configuwe pewmissions fow</b> <code>{}{}</code> :3"
   close_menu: "🙈 Cwose dis menyu"
