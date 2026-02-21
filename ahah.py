@@ -53,6 +53,5 @@ class LapokuCuteInfo(loader.Module):
             )
 
             await message.respond(
-                file="https://i.imgur.com/PRhResV_lq.mp4",
                 message=text
             )
