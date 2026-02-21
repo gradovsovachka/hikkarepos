@@ -4,7 +4,7 @@
 from .. import loader, utils
 import time
 
-__version__ = (1, 0, 0, 0)
+__version__ = (1, 0, 0, 5)
 
 start_time = time.time()
 
@@ -39,7 +39,6 @@ class LapokuCuteInfo(loader.Module):
                 "<b>୨୧ ⋆｡˚ 💖 𝓛𝓪𝓹𝓸𝓴𝓾 💖 ˚｡⋆ ୨୧</b>\n"
                 "♡ <b>owner</b>: <code>{owner}</code> 🧸\n"
                 "♡ <b>ping</b>: <code>{ping} ms</code> ⚡\n"
-                "♡ <b>uptime</b>: <code>{uptime}</code> ⏰\n"
                 "♡ <b>status</b>: online & super cute ✨\n"
                 "♡ <b>core</b>: Lapoku 🎀\n"
                 "♡ <b>vibe</b>: soft pink energy 💞\n"
